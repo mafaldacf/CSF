@@ -1,3 +1,9 @@
+Instituto Superior Técnico
+
+Master's Degree in Computer Science and Engineering
+
+Forensics Cyber-Security 2021/2022
+
 # Forensics Cyber-Security Lab Assignments
 
 These labs conduct the investigation of a case entitled “Football Leaks”.
